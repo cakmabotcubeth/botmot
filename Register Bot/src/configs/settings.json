@@ -1,0 +1,32 @@
+{
+"YetkiliRolleri": {
+    "RegisterHammer": []
+},
+
+"Roller": {
+    "ErkekRol": [],
+    "KadinRol": [],
+    "UnregisterRol": []
+},
+  
+"GenelAyarlar": {
+    "setFooter": "Beth Project (Register)",
+    "GenelChatID": "", 
+    "BotSesKanali": "", 
+  	"BotDurum": "Beth Project (Register)",
+    "GuildID": "",
+    "MongoUrl": "",
+    "Token": "",
+    "Tag": "",
+    "UnTag": "",
+    "prefix": ["."]
+},
+
+"Emojiler": {
+    "Tik": "",
+    "Red": "",
+    "Erkek": "",
+    "Kadın": ""
+}
+
+}

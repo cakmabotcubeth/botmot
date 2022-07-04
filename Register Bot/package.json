@@ -1,0 +1,17 @@
+{
+  "name": "discord-advanced-stat-bot",
+  "version": "0.0.1",
+  "description": "An advanced Discord stat bot.",
+  "main": "shavie.js",
+  "scripts": {
+    "start": "node shavie.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.6"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  }
+}
